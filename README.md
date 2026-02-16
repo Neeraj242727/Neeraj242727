@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a fresher trying to get into data analyst business analyst and data scientist roles
+Hello!
 
 
 ## 🌐 Socials:
