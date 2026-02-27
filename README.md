@@ -31,7 +31,7 @@ You can check my Projects, Certifications and my Practice work below.
 •	Soft Skills: Strong Stakeholder Management, People Management, Excellent Communication
 
 # ✉️ Gmail:
-📧 [neerajpentam2003@gmail.com](mailto:neerajpentam2003@gmail.com)
+📧 neerajpentam2003@gmail.com
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-pentam-37979325a) 
