@@ -45,5 +45,6 @@ You can check my Projects, Certifications and my Practice work below.
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-orange)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
