@@ -1,27 +1,31 @@
 # 💫 About Me:
 Hello there !
 Hi, I'm Neeraj Pentam 👋
+You can check my projects and certifications below.
 
 # 🎓 Certifications
-![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue?logo=google&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-orange?logo=amazon-aws&logoColor=white)
-![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-Certified-4285F4?logo=google&logoColor=white)
-![Microsoft Power BI Data Analyst](https://img.shields.io/badge/Microsoft%20Power%20BI%20Data%20Analyst-Certified-F2C811?logo=powerbi&logoColor=black)
+![Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/VW9QE6YX5578)
+
+![AWS Cloud Practitioner](https://www.credly.com/badges/df3e4b28-ebb4-44e5-a225-152f7cf5a4d8/linked_in_profile)
+
+![Google Generative AI](https://www.coursera.org/account/accomplishments/verify/0HHGMMJC89MS)
+
+![Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/users/neerajpentam-7839/credentials/5db4938795ddf429?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 # 💻 Skills
 •	Languages: Python, SQL, R
-•	Frameworks: Pandas, Numpy, Scikit-learn, Matplot, Seaborn
-•	Machine Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forest, KNN, SVM, Naïve Bayes, Clustering (K-Means).
-•	Tools: Excel, Power BI, Tableau, AWS, PowerPoint, MySQL
-•	Platforms: Google Colab, Jupyter Notebook
-•	Cloud Platforms: AWS
-•	Soft Skills: Strong Stakeholder Management, People Management, Excellent Communication
 
-# 🚀 Interests
-Machine Learning & AI
-Data Visualization & Storytelling
-Cloud & Data Engineering
-Generative AI
+•	Frameworks: Pandas, Numpy, Scikit-learn, Matplot, Seaborn
+
+•	Machine Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forest, KNN, SVM, Naïve Bayes, Clustering (K-Means).
+
+•	Tools: Excel, Power BI, Tableau, AWS, PowerPoint, MySQL
+
+•	Platforms: Google Colab, Jupyter Notebook
+
+•	Cloud Platforms: AWS
+
+•	Soft Skills: Strong Stakeholder Management, People Management, Excellent Communication
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-pentam-37979325a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neerajpentam2003@gmail.com) 
