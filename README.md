@@ -5,9 +5,13 @@ You can check my Projects, Certifications and my Practice work below.
 
 # 🎓 Certifications
 ✔ Google Data Analytics Professional Certificate
+
 ✔ Microsoft Power BI Data Analyst(PL-300) Certificate
+
 ✔ AWS Certified Cloud Practitioner Certificate
+
 ✔ Google Introduction to Generative AI Certificate
+
 ✔ ExcelR Data Science Course Completion Certificate
 
 # 💻 Skills
