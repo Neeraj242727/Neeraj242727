@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello there !
 Hi, I'm Neeraj Pentam 👋
+
 You can check my Projects, Certifications and my Practice work below.
 
 # 🎓 Certifications
@@ -29,7 +30,7 @@ You can check my Projects, Certifications and my Practice work below.
 
 •	Soft Skills: Strong Stakeholder Management, People Management, Excellent Communication
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-pentam-37979325a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neerajpentam2003@gmail.com) 
 
 # 💻 Tech Stack:
