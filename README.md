@@ -1,16 +1,14 @@
 # 💫 About Me:
 Hello there !
 Hi, I'm Neeraj Pentam 👋
-You can check my projects and certifications below.
+You can check my Projects, Certifications and my Practice work below.
 
 # 🎓 Certifications
-![Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/VW9QE6YX5578)
-
-![AWS Cloud Practitioner](https://www.credly.com/badges/df3e4b28-ebb4-44e5-a225-152f7cf5a4d8/linked_in_profile)
-
-![Google Generative AI](https://www.coursera.org/account/accomplishments/verify/0HHGMMJC89MS)
-
-![Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/users/neerajpentam-7839/credentials/5db4938795ddf429?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+✔ Google Data Analytics Professional Certificate
+✔ Microsoft Power BI Data Analyst(PL-300) Certificate
+✔ AWS Certified Cloud Practitioner Certificate
+✔ Google Introduction to Generative AI Certificate
+✔ ExcelR Data Science Course Completion Certificate
 
 # 💻 Skills
 •	Languages: Python, SQL, R
