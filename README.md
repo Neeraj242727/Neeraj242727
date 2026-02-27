@@ -41,6 +41,9 @@ You can check my Projects, Certifications and my Practice work below.
 ![KNN](https://img.shields.io/badge/KNN-green)
 ![SVM](https://img.shields.io/badge/SVM-purple)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-darkgreen)
-![Clustering](https://img.shields.io/badge/Clustering-orange)
+![Clustering](https://img.shields.io/badge/Clustering-orange) ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-blue)
+![Tableau](https://img.shields.io/badge/Tableau-orange)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
