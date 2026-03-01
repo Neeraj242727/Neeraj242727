@@ -48,6 +48,7 @@ neerajpentam2003@gmail.com
 ![Seaborn](https://img.shields.io/badge/Seaborn-darkblue)
 ![Tableau](https://img.shields.io/badge/Tableau-yellow)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-purple)
+![Excel](https://img.shields.io/badge/Excel-darkgreen)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
