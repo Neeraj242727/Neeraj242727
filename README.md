@@ -1,8 +1,10 @@
 # 💫 About Me:
 Hello there !
+
 Hi, I'm Neeraj Pentam 👋
 
 You can check my Projects, Certifications and my Practice work below.
+
 Thank You!!
 
 # 🎓 Certifications
