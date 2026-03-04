@@ -3,6 +3,7 @@ Hello there !
 Hi, I'm Neeraj Pentam 👋
 
 You can check my Projects, Certifications and my Practice work below.
+Thank You!!
 
 # 🎓 Certifications
 ✔ Google Data Analytics Professional Certificate
@@ -16,19 +17,19 @@ You can check my Projects, Certifications and my Practice work below.
 ✔ ExcelR Data Science Course Completion Certificate
 
 # 💻 Skills
-•	Languages: Python, SQL, R
+•	Languages: Python, SQL
 
-•	Frameworks: Pandas, Numpy, Scikit-learn, Matplot, Seaborn
+•	Frameworks: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 
-•	Machine Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forest, KNN, SVM, Naïve Bayes, Clustering (K-Means).
+•	Machine Learning: Regression, Classification, Decision Trees, Random Forest, KNN, SVM, Naïve Bayes, Clustering (K-Means).
 
-•	Tools: Excel, Power BI, Tableau, AWS, PowerPoint, MySQL
+•	Tools: Excel, Power BI, Tableau, PowerPoint, MySQL, Google Sheets
 
 •	Platforms: Google Colab, Jupyter Notebook
 
 •	Cloud Platforms: AWS
 
-•	Soft Skills: Strong Stakeholder Management, People Management, Excellent Communication
+•	Soft Skills: Problem Solving, Collaboration, Analytical Thinking, Excellent Communication
 
 # ✉️ Gmail:
 neerajpentam2003@gmail.com
