@@ -4,7 +4,7 @@ Hi, I'm Neeraj Pentam 👋
 
 You can check my Projects and my Practice work below.
 
-You can check my Certificates in the Repositories section.
+You can check my Certifications in the Repositories section.
 
 Thank You!!
 
