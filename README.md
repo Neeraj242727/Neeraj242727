@@ -24,13 +24,11 @@ Thank You!!
 
 •	Frameworks: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 
-•	Machine Learning: Regression, Classification, Decision Trees, Random Forest, KNN, SVM, Naïve Bayes, Clustering (K-Means).
+•	Machine Learning: Regression, Classification, Decision Trees, Random Forest, Clustering
 
 •	Tools: Excel, Power BI, Tableau, PowerPoint, MySQL, Google Sheets
 
-•	Platforms: Google Colab, Jupyter Notebook
-
-•	Cloud Platforms: AWS
+•	Cloud and Platforms: AWS, Google Colab, Jupyter Notebook
 
 •	Soft Skills: Problem Solving, Collaboration, Analytical Thinking, Excellent Communication
 
